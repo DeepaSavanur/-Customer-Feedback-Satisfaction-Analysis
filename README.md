@@ -5,7 +5,7 @@ Customer Feedback Satisfaction Analysis is the process of evaluating customer re
 
 Customer Feedback Satisfaction Analysis in Python is a mini-project designed to evaluate and classify customer opinions collected from product or service reviews. Using Natural Language Processing (NLP) techniques, the system analyzes sentiment and categorizes feedback as Positive, Negative, or Neutral, providing useful insights into overall customer experience and service quality.
 
-## 🚀 Features
+## *🚀 Features*
 
 ✅ Sentiment analysis of textual feedback
 
@@ -17,7 +17,7 @@ Customer Feedback Satisfaction Analysis in Python is a mini-project designed to 
 
 ✅ Exportable analysis reports (CSV/Excel)
 
-## 🛠️ Technologies Used
+## *🛠️ Technologies Used*
 
 Python
 
@@ -27,7 +27,7 @@ TextBlob / NLTK (sentiment analysis)
 
 Matplotlib (data visualization)
 
-## 📂 How It Works
+## *📂 How It Works*
 
 Load customer feedback data
 
@@ -41,7 +41,7 @@ Visualize summary using charts
 
 Export results for reporting
 
-## 🔮 Future Enhancements
+## *🔮 Future Enhancements*
 
 Machine Learning classifier (Naive Bayes / SVM / Transformers)
 
