@@ -43,17 +43,7 @@ Export results for reporting
 
 🔮 Future Enhancements
 
-Machine Learning classifier (Naive Bayes / SVM / Transformers)
-
-Web interface using Flask or Streamlit
-
-Database integration
-
-Real-time feedback input
-Machine Learning classifier (Naive Bayes / SVM / Transformers)
-
-Web interface using Flask or Streamlit
-
-Database integration
-
-Real-time feedback input
+ Machine Learning classifier (Naive Bayes / SVM / Transformers)
+ Web interface using Flask or Streamlit
+ Database integration
+ Real-time feedback input
