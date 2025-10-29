@@ -19,7 +19,7 @@ Customer Feedback Satisfaction Analysis in Python is a mini-project designed to 
 
 ## *🛠️ Technologies Used*
 
-Python
+.Python
 
 Pandas (data handling)
 
